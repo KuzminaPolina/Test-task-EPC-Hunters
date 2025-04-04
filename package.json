@@ -1,0 +1,11 @@
+{
+  "name": "test-task-epc-hunters",
+  "version": "1.0.0",
+  "description": "Test task for EPC Hunters",
+  "license": "ISC",
+  "author": "Lina",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  }
+}
